@@ -242,7 +242,7 @@ function set_document_title() {
 function plotLogo(content) {
   content.append('div')
     .attr('class', 'input-sheet__logo')
-    .html('<a href="http://www.legalandgeneral.com"><img src="/images/lg-logo.png" / ></a>');
+    .html('<a href="http://www.google.co.uk"><img src="" / ></a>');
 }
 
 
