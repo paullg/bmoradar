@@ -446,7 +446,7 @@ console.log("there is a collision");
       .append('div')
       .attr('class', 'footer-content')
       .append('p')
-      .html('Powered by Legal & General Digital Operations. ');
+      .html('Powered by Digital Operations. ');
   }
 
   function mouseoverQuadrant(order) {
